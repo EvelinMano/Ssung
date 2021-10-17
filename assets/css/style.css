@@ -268,7 +268,11 @@ hr{
 
 
 
-
+@media (max-width: 1000px){
+	#design h1{
+		font-size:40px;
+	}
+}
 
 
 
